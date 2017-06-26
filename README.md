@@ -6,8 +6,8 @@ network with computer assisted personalized approach, Online examination system 
 state university Web based educational technologies allow education to study how students learn
 and which learning strategies are most effective. The online examination systems available have
 their uniqueness and solve specific problem for the online education like:
-####### Store the questions and answers in database.
-####### Display result after submitting the examination.
-####### Multiple or single-choice answers, and fill in the blank with correct answer.
-####### Based on computerized test.
-####### Generate test answer program.
+###### Store the questions and answers in database.
+###### Display result after submitting the examination.
+###### Multiple or single-choice answers, and fill in the blank with correct answer.
+###### Based on computerized test.
+###### Generate test answer program.
